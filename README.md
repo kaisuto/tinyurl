@@ -1,6 +1,8 @@
 # tinyurl
 An easy function to get short URL from tinyurl.com
 
+   $ python -m IPython
+
 >>> import tinyurl
 >>> 
 >>> url = 'http://tw.yahoo.com'
