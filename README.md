@@ -1,6 +1,13 @@
 # tinyurl
 An easy function to get short URL from tinyurl.com
 
+Requirements
+------------
+
+- Python >= 3.5
+- [aiohttp]
+- [requests]
+- [lxml]
 
 Synchronous Version
 ------------
